@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# OS-specific
+.DS_Store
+
+# Data (raw + processed can be re-downloaded/rebuilt)
+data/raw/
+data/processed/
+
+# Trained models (can be re-trained)
+models/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
